@@ -7,7 +7,7 @@
     <title>Days of the Weeks Activity</title>
 </head>
 <body>
-    <h1> Days of the Week Activity </h1>
+    <h1> Days of the Week Activity NEW BRANCH </h1>
     
     <form method="post">
 
